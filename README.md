@@ -37,5 +37,5 @@ The user should be able to:
 
   ## Links
 
-  [Heroku Link](https://git.heroku.com/polar-brushlands-19024.git)
+  [Heroku Link](https://polar-brushlands-19024.herokuapp.com/)
 
